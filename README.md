@@ -17,5 +17,5 @@ AJAX를 사용하였는데 양날의 검인 거 같다. 페이지 이동 없이 
 
 ***
 ## 프로젝트에서 사용한 기술 : 
-JAVA, JavaScript, jQuery, HTML, CSS, JSTL, MyBatis, Tomcat ,MySQL
+eclipse, JAVA(11.0.12), JavaScript, jQuery, HTML, CSS, JSTL, MyBatis, Tomcat ,MySQL
 ***
